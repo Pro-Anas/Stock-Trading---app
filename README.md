@@ -1,1 +1,1 @@
-# Stock-Trading---app
+# Stock-Trading-app
